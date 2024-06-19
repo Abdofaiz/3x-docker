@@ -1,7 +1,7 @@
 THIS IS FOR PERSONAL USE DUE TO ARCHIVE MAIN REPOSITORY 
 [3X-UI MAIN REPOSITORY](https://github.com/MHSanaei/3x-ui)
 
-
+# Latest release v2.3.6
 ## Install & Upgrade
 
 ```
