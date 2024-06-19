@@ -69,23 +69,6 @@ remove 3x-ui from docker
 </details>
 
 
-## Recommended OS
-
-- Ubuntu 20.04+
-- Debian 11+
-- CentOS 8+
-- Fedora 36+
-- Arch Linux
-- Parch Linux
-- Manjaro
-- Armbian
-- AlmaLinux 9+
-- Rocky Linux 9+
-- Oracle Linux 8+
-- OpenSUSE Tubleweed
-
-
-
 ## Default Settings
 
 <details>
@@ -227,15 +210,6 @@ XUI_BIN_FOLDER="bin" XUI_DB_FOLDER="/etc/x-ui" go build main.go
 
 </details>
 
-## Preview
-
-![1](./media/1.png)
-![2](./media/2.png)
-![3](./media/3.png)
-![4](./media/4.png)
-![5](./media/5.png)
-![6](./media/6.png)
-![7](./media/7.png)
 
 ## A Special Thanks to
 
